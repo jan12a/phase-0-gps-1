@@ -1,1 +1,1 @@
-# phase-0-gps-1
+# phase-0-gps-1 We had a very crazy time realizing that the correct command for opening files in sublime on windows is subl.exe. But we figured it out and that is a great milestone.
